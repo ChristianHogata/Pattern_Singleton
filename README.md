@@ -1,1 +1,1 @@
-# This is a simple project with Pattern Factory Methods.
+# This is a simple project with Pattern Singleton.
